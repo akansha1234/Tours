@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  width: 600px;
+  margin: 20px auto;
+}
+h1 {
+  text-align: center;
+}
+.images {
+  width: 100%;
+  height: auto;
+}
+.price {
+  color: blue;
+  font-weight: bold;
+}
+.btn {
+  color: white;
+  background-color: crimson;
+  border: 1px solid crimson;
+  padding: 10px;
+  width: 100%;
+  font-weight: bold;
+  cursor: pointer;
+}
+.read {
+  background-color: transparent;
+  color: blue;
+  border: none;
+}
